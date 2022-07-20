@@ -45,3 +45,4 @@ print(alien_image[random_number])
 
 a = 'abc'
 b = 'abc'
+c = 'abc'

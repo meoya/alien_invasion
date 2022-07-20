@@ -42,5 +42,3 @@ print(alien_image[random_number])
 # score = 54
 # rounded_score = round(score, -10)
 # print(rounded_score)
-
-a = 'abc'
